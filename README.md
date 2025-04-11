@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋. Welcome to my profile. I am just starting out as a programmer and currently working on a blog site as a starting point. 😃
 
 <!--
 **nishman25/Nishman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
